@@ -1,0 +1,8 @@
+{
+	"name": "diopipe",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, Stefan Schmidt",
+	"authors": ["venom"],
+	"dependencies": {
+	}
+}
