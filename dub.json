@@ -1,8 +1,9 @@
 {
 	"name": "diopipe",
-	"description": "A minimal D application.",
+	"description": "A small library for running programs with redirected input and output, written in D.",
 	"copyright": "Copyright © 2016, Stefan Schmidt",
-	"authors": ["venom"],
+	"authors": ["Stefan Schmidt"],
+	"license": "MIT",
 	"dependencies": {
 	}
 }
